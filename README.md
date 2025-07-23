@@ -21,3 +21,7 @@ The game focuses on smooth shooting mechanics, simple AI for zombie movement and
 
 <li>Built with Unity</li>
 </ul>
+
+<h2>Why I Made It</h2>
+
+This project was designed to strengthen my grasp of FPS mechanics, enemy AI behaviors, and fundamental game loops. It’s a good base for expanding into more advanced FPS systems like multiple weapons, power-ups, or multiplayer modes.
