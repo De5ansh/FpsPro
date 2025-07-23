@@ -10,16 +10,14 @@ Undead Onslaught is a lightweight first-person shooter built as a fun side proje
 The game focuses on smooth shooting mechanics, simple AI for zombie movement and basic player health management. While minimalist in scope, the project demonstrates a working FPS loop — spawning enemies, aiming, shooting, hit detection, and simple animations — all packaged in an easy-to-play prototype.
 
 <h2>Key Features</h2>
-<ul>Basic FPS controls (WASD + Mouse look)
+<ul>
+<li>Basic FPS controls (WASD + Mouse look)</li>
 
-Simple gun mechanics (shoot, reload, ammo counter)
+<li>Simple gun mechanics (shoot, reload, ammo counter)</li>
 
-Zombies with simple AI: chase player when in range
+<li>Zombies with simple AI: chase player when in range</li>
 
-Player health system & game-over condition
+<li>Player health system & game-over condition</li>
 
-Wave-based enemy spawning for increasing difficulty
-
-Minimalist UI: health, ammo, score
-
-Built with [Unity/Unreal/Godot] (adjust as per your engine)</ul>
+<li>Built with Unity</li>
+</ul>
