@@ -1,5 +1,5 @@
 <h2>Undead Onslaught</h2>
-<h4>— A Simple FPS Zombie Survival Game</h4>
+<h4><i>A Simple FPS Zombie Survival Game</i></h4>
 
 <img width="1084" height="600" alt="Screenshot 2024-11-15 124924" src="https://github.com/user-attachments/assets/5cedb14b-29a8-4ce8-a464-f8245142eb7f" />
 
